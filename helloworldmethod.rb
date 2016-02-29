@@ -1,5 +1,5 @@
-def hello
-  puts "hello world!"
+def hello(arg)
+  puts arg
 
 end
 
