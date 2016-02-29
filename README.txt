@@ -1,0 +1,1 @@
+This is just a space for me to do self study on the ruby language and the rails framework before VCS begins.
